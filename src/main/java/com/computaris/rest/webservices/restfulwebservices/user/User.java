@@ -1,4 +1,4 @@
-package com.computaris.rest.webservices.restfulwebservices;
+package com.computaris.rest.webservices.restfulwebservices.user;
 
 import java.util.Date;
 

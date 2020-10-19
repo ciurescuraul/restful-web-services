@@ -1,4 +1,4 @@
-package com.computaris.rest.webservices.restfulwebservices;
+package com.computaris.rest.webservices.restfulwebservices.helloworld;
 
 /**
  * project: restful-web-services
